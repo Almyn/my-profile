@@ -7,14 +7,22 @@ body {
 h1 {
 	color : rgb(0,173,181) ;
     font-family: 'Great Vibes', cursive;
-    font-size: 36px;
+    font-size: 45px;
     text-align: center;
 }
 
 h2 {
 	color : rgb(0,173,181) ;
-    font-size: large;
+    font-size: 20px;
     text-transform: uppercase;
+}
+
+h3 {
+	color : rgb(0,173,181) ;
+    font-size: 15px;
+    font-weight:100px;
+    margin-bottom: 2px;
+    margin-top: 10px;
 }
 
 a{
